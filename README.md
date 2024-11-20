@@ -2,16 +2,6 @@
 
 This project implements a **Linear Regression with ElasticNet Regularization** from scratch in Python, without using pre-built libraries like Scikit-Learn or Statsmodels. The implementation uses NumPy for numerical computations.
 
-## Group Members
-
-| Name                  | A-Number     | Name                   |
-|-----------------------|--------------|----------------------- |
-| Deepak Kumar          | A20547017    | dkumar15@hawk.iit.edu  |
-| Kuldeep Patel         | A20540269    | kpatel181@hawk.iit.edu |
-| Shubham Dhanavade     | A20541092    | sdhanavade@hawk.iit.edu|
-| Kartheek Kumar Basava | A20553532    | kbasava@hawk.iit.edu   |
-|                       |              |                        |
-
 ## Table of Contents
 
 - [Introduction](#introduction)
